@@ -20,10 +20,10 @@ The task was performed in _**Jupyter Notebook**_ and can also be performed in _*
 
 # OUTPUT
 
-BAR GRAPH
+![Image](https://github.com/user-attachments/assets/a9bc1cf8-601d-45ad-9e41-6bc4182d5aeb)
 
-![Image](https://github.com/user-attachments/assets/05570648-0182-4045-be3b-f2da264aeb83)
+![Image](https://github.com/user-attachments/assets/f4494e21-b58c-4814-b0ab-85d0038c65ec)
 
-3D PLOT
+![Image](https://github.com/user-attachments/assets/053720f5-1694-4a5d-94cc-d5172a8cabde)
 
-![Image](https://github.com/user-attachments/assets/f913f798-2e2e-427c-aef7-29897cb918d0)
+![Image](https://github.com/user-attachments/assets/44d0902a-eb6e-4178-9200-bcb1d486aeb4)
