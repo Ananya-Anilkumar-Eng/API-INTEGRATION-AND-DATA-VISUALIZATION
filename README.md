@@ -26,4 +26,4 @@ The task was performed in _**Jupyter Notebook**_ and can also be performed in _*
 
 ![Image](https://github.com/user-attachments/assets/053720f5-1694-4a5d-94cc-d5172a8cabde)
 
-![Image](https://github.com/user-attachments/assets/44d0902a-eb6e-4178-9200-bcb1d486aeb4)
+![Image](https://github.com/user-attachments/assets/fadbecd7-59d7-439f-849c-3835dad7d667)
