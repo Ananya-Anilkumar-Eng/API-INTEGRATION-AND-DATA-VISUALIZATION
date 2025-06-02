@@ -21,6 +21,9 @@ The task was performed in _**Jupyter Notebook**_ and can also be performed in _*
 # OUTPUT
 
 BAR GRAPH
+
 ![Image](https://github.com/user-attachments/assets/05570648-0182-4045-be3b-f2da264aeb83)
+
+RELATIONAL PLOT
 
 ![Image](https://github.com/user-attachments/assets/9465568a-b9d0-4740-9d2d-bdbe4a3542db)
